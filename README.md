@@ -8,6 +8,7 @@ Chess is a two-player board game that is played on an 8x8 chessboard.India. It i
 
 ### Queen Moves
 The Queen can move in a straight line any number of squares in any one direction - horizontal, vertical, or diagonal as long as its path is not blocked by its own pieces. It can capture a piece of the opposite color in its path. Below, the black Queen can reach any of the highlighed squares shown in this diagram. It can capture the white Rook but its path is blocked in some directions–below by the black King and to the lower right by the black Knight.
+
 ![queenmov](https://github.com/aiza411/Chess-Game-Human-vs.-AI-/assets/72245945/55f87691-f91b-42b6-a6b4-64735a3e066c)
 
 
